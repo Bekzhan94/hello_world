@@ -1,2 +1,6 @@
 # hello_world
-Just another repository
+
+Hi Humans!
+
+Bekzhan here, I like Java and Python (that's what I'm made of!).
+I am student MIPT. 
